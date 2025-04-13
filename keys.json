@@ -1,21 +1,8 @@
 {
-  "llama_api": {
-    "url": "https://openrouter.ai/api/v1/chat/completions",
-    "api_key": "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"
-  },
-  "gemini_api": {
-    "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
-    "api_key": "AIzaSyA7grNNQGTLk90kd-C1RqqXU6WopBn9YCg"
-  },
-  "mistral_api": {
-    "url": "https://api.mistral.ai/v1/chat/completions",
-    "api_key": "s88tnPKQDTrweQPU3RyhRkJxlrFQrTyS"
-  },
-  "deepseek_api": {
-    "url": "https://api.deepseek.com/v1/chat/completions",
-    "api_key": "sk-bea9790189bc4978a6aab871a36f62ce"
-  },
-  "default_model": "mistral-medium",
-  "api_timeout": 5000,
-  "log_level": "debug"
+  "mistral-medium": "AIzaSyA7grNNQGTLk90kd-C1RqqXU6WopBn9YCg",
+  "mistral-tiny": "AIzaSyA7grNNQGTLk90kd-C1RqqXU6WopBn9YCg",
+  "mistral-large": "AIzaSyA7grNNQGTLk90kd-C1RqqXU6WopBn9YCg",
+  "gemini-1.5-flash": "s88tnPKQDTrweQPU3RyhRkJxlrFQrTyS",
+  "llama-v1": "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",
+  "deepseek-v1": "sk-bea9790189bc4978a6aab871a36f62ce"
 }
