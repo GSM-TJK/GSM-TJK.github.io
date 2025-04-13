@@ -1,0 +1,8 @@
+{
+  "mistral-medium": "your_mistral_medium_key",
+  "mistral-tiny": "AIzaSyA7grNNQGTLk90kd-C1RqqXU6WopBn9YCg",
+  "mistral-large": "your_mistral_large_key",
+  "gemini-1.5-flash": "s88tnPKQDTrweQPU3RyhRkJxlrFQrTyS",
+  "llama-v1": "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",
+  "deepseek-v1": "sk-bea9790189bc4978a6aab871a36f62ce"
+}
